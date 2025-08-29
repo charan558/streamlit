@@ -45,7 +45,7 @@ smart-data-visualizer/
 
 # ⚙️ Installation
 1. Clone the repo
-git clone https://github.com/your-username/smart-data-visualizer.git
+git clone https://github.com/charan558/streamlit.git
 cd smart-data-visualizer
 
 2. Create a virtual environment (recommended)
